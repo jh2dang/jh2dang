@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=ambient_gradient&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang)](https://solved.ac/jungh2dang/)
+![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=default&show_icons=true)
