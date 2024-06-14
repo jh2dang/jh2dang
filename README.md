@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang)](https://solved.ac/jungh2dang/)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh2dang&layout=compact)-->
 ![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true)
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; height: 200px;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang" alt="Solved.ac Profile" style="height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true" alt="GitHub Stats" style="height: 100%;">
+    </div>
+    
 <br/>
 <br/>
 <br/>
