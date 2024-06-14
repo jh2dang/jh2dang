@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang)](https://solved.ac/jungh2dang/)
 ![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true)-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffbf00ff">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1000&color=FFD22BCA&random=false&width=700&lines=👋+Welcome+to+JEONGHEE's+World!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1000&color=FFD22BCA&random=false&width=700&height=120&lines=👋+Welcome+to+JEONGHEE's+World!" alt="Typing SVG" /></a>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; height: 200px;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang" alt="Solved.ac Profile" style="height: 195px !important;">
         <img src="https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true" alt="GitHub Stats" style="height: 200px !important;">
