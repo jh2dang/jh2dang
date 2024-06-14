@@ -1,5 +1,4 @@
 <div align="center">
- ## Hi there 👋
 
 <!--
 **jh2dang/jh2dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +19,9 @@ Here are some ideas to get you started:
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh2dang&layout=compact)-->
 ![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true)
-< br/>
-< br/>
-< br/>
+<br/>
+<br/>
+<br/>
 
 # 💎Skills
 
@@ -44,9 +43,9 @@ Here are some ideas to get you started:
 
 
 
-< br/>
-< br/>
-< br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -63,9 +62,9 @@ Here are some ideas to get you started:
 
 
 
-< br/>
-< br/>
-< br/>
+<br/>
+<br/>
+<br/>
  
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluemin_@naver.com)](mailto:bluemin_@naver.com)
