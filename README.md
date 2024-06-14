@@ -22,17 +22,11 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; height: 200px;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang" alt="Solved.ac Profile">
         <img src="https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true" alt="GitHub Stats">
-    </div>
-    
-<br/>
+</div>
 <br/>
 <br/>
 
 # 💎Skills
-
-
-
-
 
 ### Platforms & Languages
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
@@ -48,8 +42,6 @@ Here are some ideas to get you started:
 
 
 
-<br/>
-<br/>
 <br/>
 
 
@@ -68,9 +60,18 @@ Here are some ideas to get you started:
 
 
 <br/>
-<br/>
-<br/>
  
 # :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluemin_@naver.com)](mailto:bluemin_@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:bluemin_@naver.com)](mailto:bluemin_@naver.com)
+
+<br/>
+<br/>
+
+# 📌Projects
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jh2dang&repo=busanwavr&theme=ayu-mirage)](https://github.com/jh2dang/busanwavr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jh2dang&repo=finball&theme=shadow_blue&height=150)](https://github.com/jh2dang/finball)
 </div>
+
+
