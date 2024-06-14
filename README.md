@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang)](https://solved.ac/jungh2dang/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh2dang&layout=compact)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh2dang&layout=compact)-->
 ![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true)
 
 
+
+
 # 💎Skills
+
+
 ### Platforms & Languages
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -32,6 +37,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <!--![MSSQL](https://img.shields.io/badge/Microsoftsqlserver-CC2927.svg?&style=for-the-badge&logo=Microsoftsqlserver&logoColor=white)-->
 
+
+
 ### Collaboration & Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
@@ -40,6 +47,8 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+
+
  
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluemin_@naver.com)](mailto:bluemin_@naver.com)
