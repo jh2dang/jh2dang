@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang)](https://solved.ac/jungh2dang/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh2dang&layout=compact)
 ![jh2dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh2dang&theme=react&show_icons=true)
 
 
