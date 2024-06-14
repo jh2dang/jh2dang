@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center">
+ ## Hi there 👋
 
 <!--
 **jh2dang/jh2dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
  
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bluemin_@naver.com)](mailto:bluemin_@naver.com)
+</div>
